@@ -5,7 +5,7 @@ This folder is about a collection of four interactive Power BI dashboards coveri
 ## Dashboard Summaries
 
 ### 1. Flight Delay Report
-**File:** `midterm_flight_delay_report.png` [Visit file](./midterm_flight_delay_report.png)
+**File:** `midterm_flight_delay_report.png` [Visit file](./midterm_flight_delay_report.png) 
 **Purpose:** Analyze flight delays by airline, airport, time of day, and cause.
 
 #### Features:
@@ -21,7 +21,7 @@ This folder is about a collection of four interactive Power BI dashboards coveri
 ---
 
 ### 2. Internet Sales Business Report
-**File:** `wk3_InternetSales_report.png` [Visit file](./wk3_InternetSales_report.png)  
+**File:** `wk3_InternetSales_report.png` [Visit file](./wk3_InternetSales_report.png)   
 **Purpose:** Track and analyze online sales by time, region, product, and customer demographics.
 
 #### Features:
@@ -37,7 +37,7 @@ This folder is about a collection of four interactive Power BI dashboards coveri
 ---
 
 ### 3. Executive Finance Report
-**File:** `wk1_finance_report.png` [Visit file](./wk1_finance_report.png) 
+**File:** `wk1_finance_report.png` [Visit file](./wk1_finance_report.png)  
 **Purpose:** Summarize financial performance for executives and finance stakeholders.
 
 #### Features:
@@ -53,7 +53,7 @@ This folder is about a collection of four interactive Power BI dashboards coveri
 ---
 
 ### 4. Branch-Level Sales Insights
-**File:** `wk3_ShowingInsights_report.png` [Visit file](./wk3_ShowingInsights_report.png)
+**File:** `wk3_ShowingInsights_report.png` [Visit file](./wk3_ShowingInsights_report.png) 
 **Purpose:** Visualize item-wise and branch-wise sales across months and countries.
 
 #### Features:
